@@ -48,7 +48,7 @@ This project combines **SQL-based data analysis** with **Python-driven explorati
 4. Database setup
 Ensure you have MySQL running and update the connection string in the notebook:
 
-%sql "mysql+pymysql://<username>:<password>@localhost:3306/md_water_services"
+        %sql "mysql+pymysql://<username>:<password>@localhost:3306/md_water_services"
 
 ---
 
