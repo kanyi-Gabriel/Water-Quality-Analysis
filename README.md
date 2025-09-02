@@ -1,6 +1,67 @@
-# Maji_ndogo_water_project
-In this specific audit, the objective is to assess the integrity, and accuracy of the data stored in the database. The data in the database was collected by a team of surveyors.
+# Maji Ndogo Water Project 💧
 
-In this analysis, I carried out a detailed investigation that involves analyzing the difference between the auditors report and the data collected in the field and try and Identify errors and any biasness in the data. I will try to access the accuracy of the data, thereby ensuring that the information can be relied upon for decision-making and governance.
+##  Project Overview
+The **Maji Ndogo Water Project** focuses on assessing the **integrity and accuracy of water services data** collected by surveyors compared to an independent auditor’s report.  
+The goal is to identify inconsistencies, biases, and potential errors in the dataset to ensure reliable information for **decision-making, governance, and resource allocation**.
 
-In this analysis, I investigated the differences that exist in between the auditor scores in his report and the scores collected by the surveyors.
+This project combines **SQL-based data analysis** with **Python-driven exploration** to validate data quality and uncover insights.
+
+---
+
+##  Key Objectives
+- Assess the **accuracy of field data** collected by surveyors.  
+- Compare **auditor reports** against raw survey data.  
+- Identify **biases, inconsistencies, and anomalies** in the dataset.  
+- Provide a framework for **transparent monitoring** of water services.  
+
+---
+
+
+##  Project Structure
+    ``` bash
+
+  ├── Mcq3.ipynb      
+  ├── data/            
+  ├── README.md
+
+--- 
+
+##  Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/maji-ndogo-water-project.git
+   cd maji-ndogo-water-project
+   
+2. Create a virtual environment
+    ```bash
+
+   conda create -- name environment_name
+   conda activate environment_name
+   pip install -r requirements.txt
+### To add the environment to jupyter notebook
+    ```bash
+conda install -c anaconda ipykernel
+python -m ipykernel install --user--name = environment_name
+
+## 3. Database setup
+Ensure you have MySQL running and update the connection string in the notebook:
+    ```python
+%sql "mysql+pymysql://<username>:<password>@localhost:3306/md_water_services"
+
+--- 
+
+## 4 Results & Insights
+
+Identified systematic differences between auditor and surveyor scores.
+
+Highlighted potential areas of bias in reporting.
+
+Developed a reproducible workflow for future audits.
+
+
+
+
+
+
+
