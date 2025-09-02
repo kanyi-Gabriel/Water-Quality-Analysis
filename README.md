@@ -39,19 +39,20 @@ This project combines **SQL-based data analysis** with **Python-driven explorati
    conda create -- name environment_name
    conda activate environment_name
    pip install -r requirements.txt
-### To add the environment to jupyter notebook
+    
+3. To add the environment to jupyter notebook
     ```bash
-conda install -c anaconda ipykernel
-python -m ipykernel install --user--name = environment_name
+    conda install -c anaconda ipykernel
+    python -m ipykernel install --user--name = environment_name
 
-## 3. Database setup
+4. Database setup
 Ensure you have MySQL running and update the connection string in the notebook:
-    ```python
+``` bash
 %sql "mysql+pymysql://<username>:<password>@localhost:3306/md_water_services"
 
---- 
+---
 
-## 4 Results & Insights
+Results & Insights
 
 Identified systematic differences between auditor and surveyor scores.
 
