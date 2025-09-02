@@ -52,7 +52,7 @@ Ensure you have MySQL running and update the connection string in the notebook:
 
 ---
 
-Results & Insights
+## Results & Insights
 
 Identified systematic differences between auditor and surveyor scores.
 
