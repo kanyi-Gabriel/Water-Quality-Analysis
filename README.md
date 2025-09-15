@@ -18,12 +18,29 @@ This project combines **SQL-based data analysis** with **Python-driven explorati
 
 
 ##  Project Structure
-    ``` bash
+``` bash
 
-  ├── Mcq3.ipynb      
-  ├── data/            
-  ├── README.md
-
+├── data/               
+│   ├──  Auditor_report.csv
+│   └── md_water_services.sql
+│
+├── notebooks/           # Jupyter notebooks for analysis
+│   └── Mcq3.ipynb
+│
+├── LICENCE               
+│
+├── .gitattributes
+├──              
+│
+├── .gitignore
+│
+├── README              
+│   
+│  
+│   
+│
+└── requirements.txt
+```
 --- 
 
 ##  Setup & Installation
