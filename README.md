@@ -29,15 +29,12 @@ This project combines **SQL-based data analysis** with **Python-driven explorati
 │
 ├── LICENCE               
 │
-├── .gitattributes
-├──              
+├── .gitattributes              
 │
 ├── .gitignore
 │
-├── README              
-│   
-│  
-│   
+├── README.md             
+│     
 │
 └── requirements.txt
 ```
