@@ -1,4 +1,4 @@
-# Maji Ndogo Water Project 💧
+# Maji Ndogo Water Project 
 
 ##  Project Overview
 The **Maji Ndogo Water Project** focuses on assessing the **integrity and accuracy of water services data** collected by surveyors compared to an independent auditor’s report.  
