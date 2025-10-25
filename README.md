@@ -28,14 +28,9 @@ This project combines **SQL-based data analysis** with **Python-driven explorati
 │   └── Mcq3.ipynb
 │
 ├── LICENCE               
-│
 ├── .gitattributes              
-│
 ├── .gitignore
-│
 ├── README.md             
-│     
-│
 └── requirements.txt
 ```
 --- 
