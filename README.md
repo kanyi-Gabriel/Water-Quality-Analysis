@@ -32,7 +32,7 @@ Water-Quality-Analysis/
 ├── README.md             
 └── requirements.txt
 ```
---- 
+ 
 
 ##  Setup & Installation
 
