@@ -19,7 +19,8 @@ This project combines **SQL-based data analysis** with **Python-driven explorati
 
 ##  Project Structure
 ``` bash
-
+Water-Quality-Analysis/
+│
 ├── data/               
 │   ├──  Auditor_report.csv
 │   └── md_water_services.sql
