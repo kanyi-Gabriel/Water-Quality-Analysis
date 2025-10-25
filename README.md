@@ -6,7 +6,6 @@ The goal is to identify inconsistencies, biases, and potential errors in the dat
 
 This project combines **SQL-based data analysis** with **Python-driven exploration** to validate data quality and uncover insights.
 
----
 
 ##  Key Objectives
 - Assess the **accuracy of field data** collected by surveyors.  
@@ -14,7 +13,6 @@ This project combines **SQL-based data analysis** with **Python-driven explorati
 - Identify **biases, inconsistencies, and anomalies** in the dataset.  
 - Provide a framework for **transparent monitoring** of water services.  
 
----
 
 
 ##  Project Structure
@@ -60,7 +58,6 @@ Ensure you have MySQL running and update the connection string in the notebook:
 
         %sql "mysql+pymysql://<username>:<password>@localhost:3306/md_water_services"
 
----
 
 ## Results & Insights
 
