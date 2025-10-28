@@ -38,8 +38,8 @@ Water-Quality-Analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kanyi-Gabriel/maji-ndogo-water-project.git
-   cd maji-ndogo-water-project
+   git clone https://github.com/kanyi-Gabriel/Water-Quality-Analysis.git
+   cd Water-Quality-Analysis
    
 2. Create a virtual environment
     ```bash
